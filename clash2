@@ -1,0 +1,383 @@
+端口：7890
+
+袜子端口：7891
+
+允许局域网：真
+
+模式：规则
+
+日志级别：信息
+
+外部控制器：：9090
+
+代理：
+
+  - {name：“🇸🇬最新域名：q1cloud.xyz”，服务器：8.8.8.8，端口：443，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，protocol-param : 6166:LL00oooii8uu, obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：🇷🇺 a RT，服务器：relaypro.procncon.xyz，端口：560，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166： LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：🇷🇺 b RT，服务器：relaypro.procncon.xyz，端口：561，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166： LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：🇷🇺 俄罗斯 c RT，服务器：relaypro.procncon.xyz，端口：562，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166： LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：🇭🇰 香港动态 HKT A，服务器：csdynhkt.proconcn.xyz，端口：560，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166 :LL00oooii8uu, obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：🇭🇰 香港动态 HKT B，服务器：csdynhkt.proconcn.xyz，端口：561，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166 :LL00oooii8uu, obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：🇭🇰香港动态HKT C，服务器：csdynhkt.proconcn.xyz，端口：562，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166 :LL00oooii8uu, obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：“🇭🇰 [CT/CM]香港 01”，服务器：hzrelaycu.procncon.xyz，端口：560，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：“🇭🇰 [CT/CM]香港 02”，服务器：shcu002online.proconcn.xyz，端口：601，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：“🇭🇰 [CT/CM]香港 03”，服务器：curlayhk.dnsflix.com，端口：560，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：“🇭🇰 [CT/CM]香港 04”，服务器：shcu001online.proconcn.xyz，端口：560，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：“🇭🇰 [CT/CM]香港 05”，服务器：shusacu.proconcn.xyz，端口：561，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：“🇭🇰 [CT/CM]香港 06”，服务器：hzrelaycu.procncon.xyz，端口：562，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：“🇭🇰 [CT/CM]香港 07”，服务器：shcu001online.proconcn.xyz，端口：562，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：“🇭🇰 [CT/CM]香港 08”，服务器：cnrelaycm.procncon.xyz，端口：560，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：“🇭🇰 [CT/CM]香港 09”，服务器：cnrelaycm.procncon.xyz，端口：562，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：“🇭🇰 [CT/CM]香港 10”，服务器：shcu001online.proconcn.xyz，端口：561，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：“🇭🇰 [CT/CM]香港 11”，服务器：shusacu.proconcn.xyz，端口：560，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：“🇭🇰 [CT/CM]香港 12”，服务器：curlayhk.dnsflix.com，端口：561，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：“🇭🇰 [CT/CM]香港 13”，服务器：shcu002online.proconcn.xyz，端口：562，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：“🇭🇰 [CT/CM]香港 14”，服务器：shusacu.proconcn.xyz，端口：562，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：“🇭🇰 [CT/CM]香港 15”，服务器：shsuconpro.procncon.xyz，端口：560，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：“🇭🇰 [CT/CM]香港 16”，服务器：shsuconpro.procncon.xyz，端口：561，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：“🇭🇰 [CT/CM]香港 17”，服务器：shcu002online.proconcn.xyz，端口：563，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：🇮🇹意大利，服务器：relaypro.procncon.xyz，端口：612，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166：LL00oooii8uu， obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：🇹🇼台湾，服务器：cstwrelay.onlineto.xyz，端口：560，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166：LL00oooii8uu， obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：🇯🇵 日本 A，服务器：shallaz.proconcn.xyz，端口：560，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu , obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：🇯🇵 日本 B，服务器：shallaz.proconcn.xyz，端口：561，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu , obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：🇸🇬 新加坡A，服务器：shallaz.proconcn.xyz，端口：562，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu , obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：🇸🇬 新加坡B，服务器：shallaz.proconcn.xyz，端口：563，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu , obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：🇸🇬 新加坡 C，服务器：shallaz4.dnsflix.com，端口：566，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166:LL00oooii8uu , obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：🇸🇬 SingaporeD，服务器：shallaz4.dnsflix.com，端口：567，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166：LL00oooii8uu , obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：🇸🇬新加坡E，服务器：shallaz4.dnsflix.com，端口：568，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166：LL00oooii8uu , obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：🇰🇷韩国高速接入A，服务器：shallaz.proconcn.xyz，端口：565，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数： 6166:LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：🇺🇸美国优化-1，服务器：shusa.proconcn.xyz，端口：560，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166 :LL00oooii8uu, obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：🇺🇸美国优化-2，服务器：shusa.proconcn.xyz，端口：561，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166 :LL00oooii8uu, obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：🇺🇸美国优化-3，服务器：shusa.proconcn.xyz，端口：562，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166 :LL00oooii8uu, obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：🇺🇸美国优化-4，服务器：shusa.proconcn.xyz，端口：563，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166 :LL00oooii8uu, obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：🇺🇸美国优化-5，服务器：usastart.proconcn.xyz，端口：564，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166 :LL00oooii8uu, obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：🇺🇸美国优化-6，服务器：usastart.proconcn.xyz，端口：565，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166 :LL00oooii8uu, obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：🇺🇸美国优化-7，服务器：usastart.proconcn.xyz，端口：566，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166 :LL00oooii8uu, obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：🇺🇸美国优化-8，服务器：usastart.proconcn.xyz，端口：567，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166 :LL00oooii8uu, obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：🇺🇸美国优化-9，服务器：usastart.proconcn.xyz，端口：568，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166 :LL00oooii8uu, obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：🇺🇸美国优化-10，服务器：usastart.proconcn.xyz，端口：569，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166 :LL00oooii8uu, obfs-param: "telegram.channel.p2psharing"}
+
+  - {name: 🇨🇦 加拿大优化, server: shusa.proconcn.xyz, port: 570, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 6166:LL00oooii8uu , obfs-param: "telegram.channel.p2psharing"}
+
+  - {名称：🇳印度 aws 2.0，服务器：ind-aws.onlineto.xyz，端口：543，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数： 6166:LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：🇬🇧英国iplayer A，服务器：relaypro.procncon.xyz，端口：613，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166： LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：🇬🇧英国iplayer B，服务器：relaypro.procncon.xyz，端口：614，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166： LL00oooii8uu，obfs 参数：“telegram.channel.p2psharing”}
+
+  - {名称：🇹🇷 土耳其，服务器：relaypro.procncon.xyz，端口：620，类型：ssr，密码：chacha20-ietf，密码：mblank1port，协议：auth_aes128_md5，obfs：plain，协议参数：6166：LL00oooii8uu， obfs 参数：“telegram.channel.p2psharing”}
+
+代理组：
+
+  - 名称：🚀 节点选择
+
+    类型：选择
+
+    代理：
+
+      - ♻️ 自动选择
+
+      - 直接的
+
+      - “🇸🇬最新域名：q1cloud.xyz”
+
+      - 🇷🇺 俄罗斯a RT
+
+      - 🇷🇺 俄罗斯b RT
+
+      - 🇷🇺 俄罗斯c RT
+
+      - 🇭🇰 香港动态 HKT A
+
+      - 🇭🇰 香港动态 HKT B
+
+      - 🇭🇰 香港动态 HKT C
+
+      - 🇭🇰 [CT/CM]香港 01
+
+      - 🇭🇰 [CT/CM]香港 02
+
+      - 🇭🇰 [CT/CM]香港 03
+
+      - 🇭🇰 [CT/CM]香港 04
+
+      - 🇭🇰 [CT/CM]香港 05
+
+      - 🇭🇰 [CT/CM]香港 06
+
+      - 🇭🇰 [CT/CM]香港 07
+
+      - 🇭🇰 [CT/CM]香港 08
+
+      - 🇭🇰 [CT/CM]香港 09
+
+      - 🇭🇰 [CT/CM]香港 10
+
+      - 🇭🇰 [CT/CM]香港 11
+
+      - 🇭🇰 [CT/CM]香港 12
+
+      - 🇭🇰 [CT/CM]香港 13
+
+      - 🇭🇰 [CT/CM]香港 14
+
+      - 🇭🇰 [CT/CM]香港 15
+
+      - 🇭🇰 [CT/CM]香港 16
+
+      - 🇭🇰 [CT/CM]香港 17
+
+      - 🇮🇹 意大利
+
+      - 🇹🇼 台湾
+
+      - 🇯🇵 日本 A
+
+      - 🇯🇵 日本 B
+
+      - 🇸🇬 新加坡A
+
+      - 🇸🇬 新加坡B
+
+      - 🇸🇬 新加坡C
+
+      - 🇸🇬 新加坡D
+
+      - 🇸🇬 新加坡 E
+
+      - 🇰🇷 韩国高速接入A
+
+      - 🇺🇸 美国优化-1
+
+      - 🇺🇸 美国优化-2
+
+      - 🇺🇸 美国优化-3
+
+      - 🇺🇸 美国优化-4
+
+      - 🇺🇸 美国优化-5
+
+      - 🇺🇸 美国优化-6
+
+      - 🇺🇸 美国优化-7
+
+      - 🇺🇸 美国优化-8
+
+      - 🇺🇸 美国优化-9
+
+      - 🇺🇸 美国优化-10
+
+      - 🇨🇦 加拿大优化
+
+      - 🇮🇳印度 aws 2.0
+
+      - 🇬🇧英国iplayer A
+
+      - 🇬🇧英国iplayer B
+
+      - 🇹🇷 土耳其
+
+  - 名称：♻️ 自动选择
+
+    类型：网址测试
+
+    网址：http://www.gstatic.com/generate_204
+
+    间隔：300
+
+    公差：50
+
+    代理：
+
+      - “🇸🇬最新域名：q1cloud.xyz”
+
+      - 🇷🇺 俄罗斯a RT
+
+      - 🇷🇺 俄罗斯b RT
+
+      - 🇷🇺 俄罗斯c RT
+
+      - 🇭🇰 香港动态 HKT A
+
+      - 🇭🇰 香港动态 HKT B
+
+      - 🇭🇰 香港动态 HKT C
+
+      - 🇭🇰 [CT/CM]香港 01
+
+      - 🇭🇰 [CT/CM]香港 02
+
+      - 🇭🇰 [CT/CM]香港 03
+
+      - 🇭🇰 [CT/CM]香港 04
+
+      - 🇭🇰 [CT/CM]香港 05
+
+      - 🇭🇰 [CT/CM]香港 06
+
+      - 🇭🇰 [CT/CM]香港 07
+
+      - 🇭🇰 [CT/CM]香港 08
+
+      - 🇭🇰 [CT/CM]香港 09
+
+      - 🇭🇰 [CT/CM]香港 10
+
+      - 🇭🇰 [CT/CM]香港 11
+
+      - 🇭🇰 [CT/CM]香港 12
+
+      - 🇭🇰 [CT/CM]香港 13
+
+      - 🇭🇰 [CT/CM]香港 14
+
+      - 🇭🇰 [CT/CM]香港 15
+
+      - 🇭🇰 [CT/CM]香港 16
+
+      - 🇭🇰 [CT/CM]香港 17
+
+      - 🇮🇹 意大利
+
+      - 🇹🇼 台湾
+
+      - 🇯🇵 日本 A
+
+      - 🇯🇵 日本 B
+
+      - 🇸🇬 新加坡A
+
+      - 🇸🇬 新加坡B
+
+      - 🇸🇬 新加坡C
+
+      - 🇸🇬 新加坡D
+
+      - 🇸🇬 新加坡 E
+
+      - 🇰🇷 韩国高速接入A
+
+      - 🇺🇸 美国优化-1
+
+      - 🇺🇸 美国优化-2
+
+      - 🇺🇸 美国优化-3
+
+      - 🇺🇸 美国优化-4
+
+      - 🇺🇸 美国优化-5
+
+      - 🇺🇸 美国优化-6
+
+      - 🇺🇸 美国优化-7
+
+      - 🇺🇸 美国优化-8
+
+      - 🇺🇸 美国优化-9
+
+      - 🇺🇸 美国优化-10
+
+      - 🇨🇦 加拿大优化
+
+      - 🇮🇳印度 aws 2.0
+
+      - 🇬🇧英国iplayer A
+
+      - 🇬🇧英国iplayer B
+
+      - 🇹🇷 土耳其
+
+  - 名称：🎯 全球直连
+
+    类型：选择
+
+    代理：
+
+      - 直接的
+
+      - 🚀选择节点
+
+      - ♻️ 自动选择
+
+  - 名称：🛑 全球拦截
+
+    类型：选择
+
+    代理：
+
+      - 拒绝
+
+      - 直接的
+
+  - 名称：🐟漏网之鱼
+
+    类型：选择
+
+    代理：
+
+      - 🚀选择节点
+
+      - 🎯 全球直连
+
+      - ♻️ 自动选择
+
+      - “🇸🇬最新域名：q1cloud.xyz”
+
+      - 🇷🇺 俄罗斯a RT
+
+      - 🇷🇺 俄罗斯b RT
+
+      - 🇷🇺 俄罗斯c RT
+
+      - 🇭🇰 香港动态 HKT A
+
+      - 🇭🇰 香港动态 HKT B
+
+      - 🇭🇰 香港动态 HKT C
+
+      - 🇭🇰 [CT/CM]香港 01
+
+      - 🇭🇰 [CT/CM]香港 02
